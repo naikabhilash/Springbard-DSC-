@@ -1,0 +1,2 @@
+-- https://github.com/JimmyUSA/Springboard--Predicting-Movie-Ratings-from-Reviews-Using-Naive-Bayes/blob/master/naive_bayes/Mini_Project_Naive_Bayes.ipynb
+-- http://wiki.cfcl.com/Vicki/Datascience/Unit10NaiveBayes
